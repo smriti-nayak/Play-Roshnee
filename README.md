@@ -1,2 +1,4 @@
 # Play-Roshnee
-A mood based music and lighting system
+In today’s hyper active world full of stress and pressure, mental and emotional health is becoming important factors in maintaining a person’s well-being, but with increasing work and social load, this gets neglected. It is important to address and take care of the mental and emotional health of individuals at homes, workplaces and schools. There is an enormous amount of studies that showcase that ambient lighting and music have a major impact on the mood. Light and mood — two seemingly separate concepts that actually have a powerful and ongoing relationship with one another. There’s no arguing that light has a profound impact on the body and that the presence of disruptive light can be harmful. So, our solution is to build a model capable of recognizing the person's emotions with the combined efforts of image processing and deep learning and then transform the ambiance of the room by changing the lights and playing music in accordance to the mood of the person, which can gradually transition them to the more positive moods.
+
+
